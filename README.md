@@ -1,4 +1,5 @@
 # 项目名称 🚀 AI.NAV
+# 体验地址：http://ainav.site/
 ## If you want to build this site together. please follow me
 >  A navigation website for AI tools
 ![image](https://github.com/peaktoptech/ai-nav/assets/124876944/bc31408f-e3f8-454c-96f5-b80dde9a5173)
