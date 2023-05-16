@@ -121,7 +121,7 @@ export default {
 .wrapper .input-data .underline {
   position: absolute;
   bottom: 0px;
-  height: 4px;
+  height: 3px;
   width: 100%;
   background-color: #0db19b;
   /* 沿X轴缩小 */
@@ -134,6 +134,11 @@ export default {
   /* 沿X轴放大 */
   transform: scaleX(1);
 }
+.wrapper .input-data input:hover ~ .underline{
+    /* 沿X轴放大 */
+  transform: scaleX(1);
+}
+
 /* LOGO */
 .logo {
   font-size: 36px; /* 调整字体大小 */
